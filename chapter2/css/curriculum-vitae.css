@@ -1,0 +1,40 @@
+body {
+    width: 40%;
+    font-size: 1.2rem;
+    line-break: auto;
+}
+
+h3 {
+    color: gainsboro;
+    background-color: black;
+}
+
+a:hover {
+    background-color: lightgray;
+}
+
+li {
+    list-style-type:square;
+}
+
+.time {
+    color: blue;
+}
+
+.title {
+    font-weight: 300;
+}
+
+.description {
+    font-style: italic;
+}
+
+body {
+    background-color:azure;
+}
+
+img {
+    width: 90px;
+    height: auto;
+}
+

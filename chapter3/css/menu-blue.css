@@ -1,0 +1,46 @@
+.outer {
+    width: 300px;
+    height: 350px;
+    border: 10px solid maroon;
+    background-color: maroon;    
+    padding: auto;    
+}
+
+.middle {
+    height: 97%;
+    background-color: white;
+    margin: auto;
+    border: 5px solid lightblue;
+    border-radius: 25px;
+}
+
+.inner {
+    width: 260px;
+    height: 310px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 25px;
+    justify-content: center;
+}
+
+.gap-bottom {
+    padding: 10px;
+}
+
+.gap-top {
+    margin-bottom: 50px;
+}
+
+input {
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+
+a:hover {
+    background-color: darkgrey;
+}
+
+.form-input {
+    margin-left: 5px;
+}

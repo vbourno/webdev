@@ -1,0 +1,19 @@
+body{
+    background-color: lightgray;
+}
+
+.aueb-logo {
+    width: 800px;
+    height: auto;
+}
+
+p.aueb-text {
+    color: white;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1.aueb-text{
+    color: green;
+    background-color: pink;
+}
